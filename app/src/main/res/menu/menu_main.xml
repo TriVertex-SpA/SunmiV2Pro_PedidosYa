@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Configuración"
+        android:icon="@android:drawable/ic_menu_preferences" />
+    <item
+        android:id="@+id/action_about"
+        android:title="Acerca de"
+        android:icon="@android:drawable/ic_menu_info_details" />
+</menu>

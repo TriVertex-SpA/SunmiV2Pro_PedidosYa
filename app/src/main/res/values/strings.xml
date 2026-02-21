@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunmiPrinter</string>
+    <string name="herramientas_disponibles">Herramientas disponibles</string>
+    <string name="demo_text">Texto de prueba</string>
+    <string name="demo_image">Imagen de prueba</string>
+    <string name="guardar">Guardar</string>
+    <string name="escriba_aqui">Escriba aquí...</string>
+    <string name="config_demo_text">Config. texto de prueba</string>
+    <string name="volver">Volver</string>
+</resources>
